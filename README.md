@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Mehdi Mohammadpour
 
-<!--
-**tthemehdi/tthemehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to Reach Me
+- ✉️ Email: [themahdi@gmail.com](mailto:themahdi@gmail.com)  
+- 📷 Instagram: [@tthemehdi](https://instagram.com/tthemehdi)  
+- ✈️ Telegram: [@tthemehdi](https://t.me/tthemehdi)
 
-Here are some ideas to get you started:
+## 🌱 I’m Currently Learning
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** Python, C++  
+- **Frameworks & Tools:** Qt, Visual Studio Code, PyCharm  
+- **Databases:** MySQL
+
+## 🛠️ Skills
+- Python programming
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tthemehdi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthemehdi&layout=compact&theme=radical" />
+</p>
+
+## 🏆 Trophies & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tthemehdi&theme=gruvbox" />
+</p>
+
+## 📈 Visitor Count
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/tthemehdi/count.svg)
+</p>
+
