@@ -19,7 +19,6 @@
 ## 📊 GitHub Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tthemehdi&theme=dark&show_icons=true" />
-  <img src="https://media.giphy.com/media/your-gif.gif" width="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthemehdi&layout=compact&theme=radical" />
 
   
@@ -30,8 +29,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tthemehdi&theme=gruvbox" />
 </p>
 
-## 📈 Visitor Count
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/tthemehdi/count.svg)
-  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 
