@@ -54,7 +54,7 @@ I'm a serious tea lover and I adore Turkish poetry.
 ---
 
 <!-- Contribution snake (replace username if you want a different repo username) -->
-![Snake dark](https://raw.githubusercontent.com/tthemehdi/tthemehdi/github-contribution-grid-snake-dark.svg)
+![Snake dark](https://raw.githubusercontent.com/tthemehdi/tthemehdi/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
