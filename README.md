@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm passionate about programming and artificial intelligen
 ## 🔍 About Me
 Hi — I'm a computer engineer interested in programming and artificial intelligence. I like discovering new solutions to my problems and sharing them with friends. I'm passionate about learning and studying. I'm a Python developer — you can ask me about Python and related topics.
 
-
 ## 🌱 Currently Learning
 - Python  
 - Machine Learning  
@@ -34,17 +33,17 @@ I'm a serious tea lover and I adore Turkish poetry.
 
 ---
 
-## 🧰 Tech Stack (Highlights)
+## 🧰 Tech Stack
 
 <div align="center">
 
   <p>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" alt="Python" />
-    <img src="https://www.svgrepo.com/show/303231/c-plusplus.svg" width="50" alt="C++" style="margin-left: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" alt="C++" style="margin-left: 10px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="50" alt="Qt" style="margin-left: 10px;" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visual-studio-code-colored.svg" width="50" alt="VS Code" style="margin-left: 10px;" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pycharm-colored.svg" width="50" alt="PyCharm" style="margin-left: 10px;" />
-    <img src="https://www.svgrepo.com/show/354516/mysql.svg" width="50" alt="MySQL" style="margin-left: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code" style="margin-left: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="50" alt="PyCharm" style="margin-left: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" alt="MySQL" style="margin-left: 10px;" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" alt="Git" style="margin-left: 10px;" />
   </p>
 
@@ -55,7 +54,7 @@ I'm a serious tea lover and I adore Turkish poetry.
 ---
 
 <!-- Contribution snake (replace username if you want a different repo username) -->
-![Snake dark](https://raw.githubusercontent.com/tthemehdi/tthemehdi/output/github-contribution-grid-snake-dark.svg)
+![Snake dark](https://raw.githubusercontent.com/tthemehdi/tthemehdi/github-contribution-grid-snake-dark.svg)
 
 ---
 
